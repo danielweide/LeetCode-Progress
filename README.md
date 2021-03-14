@@ -6,3 +6,4 @@ I have completed:
 * 1431 Kids With the Greatest Number of Candies 
 * 1108 Defanging an IP Address
 * 1672 Richest Customer Wealth
+* 1470 Shuffle the Array
