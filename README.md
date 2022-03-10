@@ -7,3 +7,5 @@ I have completed:
 * 1108 Defanging an IP Address
 * 1672 Richest Customer Wealth
 * 1470 Shuffle the Array
+* 13 Roman to Integer
+* 58 Length of Last Word
